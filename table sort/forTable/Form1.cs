@@ -44,7 +44,7 @@ namespace forTable
         private void loadTableBtn_Click(object sender, EventArgs e)
         {
             OpenFileDialog ofd = new OpenFileDialog();
-            ofd.Filter = "Table files| *.csv; *.txt; *.rudnev";
+            ofd.Filter = "Table files| *.csv; *.txt;";
             if (ofd.ShowDialog() == DialogResult.OK)
                 fillDataGrid(ofd.FileName);
         }
