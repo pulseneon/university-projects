@@ -1,0 +1,30 @@
+C:\Users\thebo\source\repos\forTable\forTable\bin\Debug\forTable.exe.config
+C:\Users\thebo\source\repos\forTable\forTable\bin\Debug\forTable.exe
+C:\Users\thebo\source\repos\forTable\forTable\bin\Debug\forTable.pdb
+C:\Users\thebo\source\repos\forTable\forTable\obj\Debug\forTable.csproj.AssemblyReference.cache
+C:\Users\thebo\source\repos\forTable\forTable\obj\Debug\forTable.Form1.resources
+C:\Users\thebo\source\repos\forTable\forTable\obj\Debug\forTable.Properties.Resources.resources
+C:\Users\thebo\source\repos\forTable\forTable\obj\Debug\forTable.csproj.GenerateResource.cache
+C:\Users\thebo\source\repos\forTable\forTable\obj\Debug\forTable.csproj.CoreCompileInputs.cache
+C:\Users\thebo\source\repos\forTable\forTable\obj\Debug\forTable.exe
+C:\Users\thebo\source\repos\forTable\forTable\obj\Debug\forTable.pdb
+F:\Лабораторные работы\3 семестр\асд\1 лаба\forTable\forTable\bin\Debug\forTable.exe.config
+F:\Лабораторные работы\3 семестр\асд\1 лаба\forTable\forTable\bin\Debug\forTable.exe
+F:\Лабораторные работы\3 семестр\асд\1 лаба\forTable\forTable\bin\Debug\forTable.pdb
+F:\Лабораторные работы\3 семестр\асд\1 лаба\forTable\forTable\obj\Debug\forTable.csproj.AssemblyReference.cache
+F:\Лабораторные работы\3 семестр\асд\1 лаба\forTable\forTable\obj\Debug\forTable.Form1.resources
+F:\Лабораторные работы\3 семестр\асд\1 лаба\forTable\forTable\obj\Debug\forTable.Properties.Resources.resources
+F:\Лабораторные работы\3 семестр\асд\1 лаба\forTable\forTable\obj\Debug\forTable.csproj.GenerateResource.cache
+F:\Лабораторные работы\3 семестр\асд\1 лаба\forTable\forTable\obj\Debug\forTable.csproj.CoreCompileInputs.cache
+F:\Лабораторные работы\3 семестр\асд\1 лаба\forTable\forTable\obj\Debug\forTable.exe
+F:\Лабораторные работы\3 семестр\асд\1 лаба\forTable\forTable\obj\Debug\forTable.pdb
+F:\Лабораторные работы\3 семестр\асд\1 лаба\forTable cleared\forTable\bin\Debug\forTable.exe.config
+F:\Лабораторные работы\3 семестр\асд\1 лаба\forTable cleared\forTable\bin\Debug\forTable.exe
+F:\Лабораторные работы\3 семестр\асд\1 лаба\forTable cleared\forTable\bin\Debug\forTable.pdb
+F:\Лабораторные работы\3 семестр\асд\1 лаба\forTable cleared\forTable\obj\Debug\forTable.csproj.AssemblyReference.cache
+F:\Лабораторные работы\3 семестр\асд\1 лаба\forTable cleared\forTable\obj\Debug\forTable.Form1.resources
+F:\Лабораторные работы\3 семестр\асд\1 лаба\forTable cleared\forTable\obj\Debug\forTable.Properties.Resources.resources
+F:\Лабораторные работы\3 семестр\асд\1 лаба\forTable cleared\forTable\obj\Debug\forTable.csproj.GenerateResource.cache
+F:\Лабораторные работы\3 семестр\асд\1 лаба\forTable cleared\forTable\obj\Debug\forTable.csproj.CoreCompileInputs.cache
+F:\Лабораторные работы\3 семестр\асд\1 лаба\forTable cleared\forTable\obj\Debug\forTable.exe
+F:\Лабораторные работы\3 семестр\асд\1 лаба\forTable cleared\forTable\obj\Debug\forTable.pdb
