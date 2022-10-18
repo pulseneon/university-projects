@@ -12,3 +12,4 @@
 ```
 
 Пример работы: 
+![image](https://github.com/pulseneon/university-projects/blob/main/table%20sort/example.gif)
